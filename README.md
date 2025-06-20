@@ -1,8 +1,8 @@
-## BLACKBIRD
+# BLACKBIRD
 
 # Base React App – Logo Update Project
 
-This is a basic React app created using `create-react-app`. As part of a hands-on task, we practiced real-world GitHub collaboration workflows by replacing the default logo and external link in the React app with custom ones from Propeller Aero.
+This is a basic React app created using `create-react-app`. As part of a hands-on task, we practised real-world GitHub collaboration workflows by replacing the default logo and external link in the React app with custom ones from Propeller Aero.
 
 ---
 
@@ -11,7 +11,7 @@ This is a basic React app created using `create-react-app`. As part of a hands-o
 - Created with [Create React App](https://github.com/facebook/create-react-app)
 - Replaced default React logo with a custom SVG from Propeller Aero
 - Updated default React documentation link with a link to [DirtMate by Propeller Aero](https://www.propelleraero.com/dirtmate/)
-- Practiced Git and GitHub CLI workflows:
+- Practised Git and GitHub CLI workflows:
   - Branching
   - Commit & push
   - Pull request creation & merge
